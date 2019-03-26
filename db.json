@@ -9,8 +9,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "friends": [
-    { "name": "tim" },
-    { "name": "john" }
+    { "id": 1,"name": "tim" },
+    { "id": 2,"name": "john" }
   ],
   "profile": {
     "name": "typicode"
