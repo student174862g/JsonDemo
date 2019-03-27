@@ -15,6 +15,41 @@
       { "id": 3, "text": "Play around in JSFiddle", "show": "true", "price": 500, "duration": 5 },
       { "id": 4, "text": "Build something awesome", "show": "true", "price": 550, "duration": 4 }
     ],
+  "jobs": [
+{
+"id": 2,
+"name": "Job_scheduled",
+"description": "This is more complex job",
+"created_date": "2019-03-21 17:00:00",
+"modified_date": "2019-03-21 17:00:00",
+"scheduler_type": 0,
+"is_repeat": "N",
+"interval_seconds": 1,
+"interval_minutes": 60,
+"hours": 12,
+"minutes": 0,
+"week_day": 1,
+"day_of_month": 1,
+"status": "N/A"
+},
+{
+"id": 3,
+"name": "Job_KOL_FOLLOWER_LIKE",
+"description": "",
+"created_date": "2019-03-21 17:00:00",
+"modified_date": "2019-03-21 17:00:00",
+"scheduler_type": 0,
+"is_repeat": "N",
+"interval_seconds": 0,
+"interval_minutes": 60,
+"hours": 12,
+"minutes": 0,
+"week_day": 1,
+"day_of_month": 1,
+"status": "N/A"}
+
+    ],
+  
   "profile": {
     "name": "typicode"
   }
