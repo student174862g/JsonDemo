@@ -9,6 +9,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  result: [
+      { id: 1, text: "Learn JavaScript", show: true, price: 100, duration: 2 },
+      { id: 2, text: "Learn Vue", show: true, price: 200, duration: 1 },
+      { id: 3, text: "Play around in JSFiddle", show: true, price: 500, duration: 5 },
+      { id: 4, text: "Build something awesome", show: true, price: 550, duration: 4 }
+    ],
   "profile": {
     "name": "typicode"
   }
