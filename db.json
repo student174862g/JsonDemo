@@ -10,11 +10,11 @@
   ],
   "jobs": [
     { "id": 123, "name": "ETLname1", "description": "doesOne", "Schedular_type": 1, "Is_repeate": "Y", "Interval_seconds":60, "Interval_minutes": 5, "hours":2, "week_day":1, "day_of_month":4, "created_date":12-5-2019, "modified_date":12-1-2019, "status":"Stopped}, 
-    { "id": 234, "name": "ETLname2", "description": "does2", "Schedular_type": 0, "Is_repeate": "Y", "Interval_seconds":70, "Interval_minutes": 5, "hours":8, "week_day":2, "day_of_month":6, "created_date":5-5-2019, "modified_date":8-1-2019, "status":"Finished},
+   
     { "id": 345, "name": "ETLname3", "description": "does3", "Schedular_type": 0, "Is_repeate": "N", "Interval_seconds":20, "Interval_minutes": 9, "hours":5, "week_day":3, "day_of_month":7, "created_date":1-5-2019, "modified_date":12-1-2019, "status":"Halt},
-    { "id": 456, "name": "ETLname4", "description": "does4", "Schedular_type": 0, "Is_repeate": "Y", "Interval_seconds":10, "Interval_minutes": 8, "hours":1, "week_day":4, "day_of_month":1, "created_date":2-5-2019, "modified_date":1-1-2019, "status":"Running},
+    
     { "id": 567, "name": "ETLname5", "description": "does5", "Schedular_type": 1, "Is_repeate": "N", "Interval_seconds":80, "Interval_minutes": 6, "hours":2, "week_day":6, "day_of_month":2, "created_date":3-5-2019, "modified_date":5-1-2019, "status":"Stopped},
-    { "id": 789, "name": "ETLname6", "description": "does6", "Schedular_type": 1, "Is_repeate": "N", "Interval_seconds":60, "Interval_minutes": 1, "hours":2, "week_day":5, "day_of_month":3, "created_date":4-5-2019, "modified_date":9-1-2019, "status":"Stopped}
+   
   ],
   "friends": [
     { "id": 1, "name": "tim",  },
