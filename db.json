@@ -8,14 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "jobs": [
-    { "id": 123, "name": "ETLname1", "description": "doesOne", "Schedular_type": 1, "Is_repeate": "Y", "Interval_seconds":60, "Interval_minutes": 5, "hours":2, "week_day":1, "day_of_month":4, "created_date":12-5-2019, "modified_date":12-1-2019, "status":"Stopped}, 
-   
-    { "id": 345, "name": "ETLname3", "description": "does3", "Schedular_type": 0, "Is_repeate": "N", "Interval_seconds":20, "Interval_minutes": 9, "hours":5, "week_day":3, "day_of_month":7, "created_date":1-5-2019, "modified_date":12-1-2019, "status":"Halt},
-    
-    { "id": 567, "name": "ETLname5", "description": "does5", "Schedular_type": 1, "Is_repeate": "N", "Interval_seconds":80, "Interval_minutes": 6, "hours":2, "week_day":6, "day_of_month":2, "created_date":3-5-2019, "modified_date":5-1-2019, "status":"Stopped},
-   
-  ],
+
   "friends": [
     { "id": 1, "name": "tim",  },
     { "id": 2, "name": "john" }
